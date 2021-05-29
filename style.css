@@ -4,6 +4,7 @@ body {
     color: #FFFFF;
     width: 100%;
     height: 100%;
+    background: linear-gradient(#8abbe3 0%, #fca903 25%, #1ddb62 50%, #03e3fc 75%, #a30363 100%);
 }
 
 .links {
@@ -20,10 +21,5 @@ body {
 .links:hover {
     background-color: darksalmon;
     color: white;
-}
-
-#myworks {
-    background: linear-gradient(#8abbe3 0%, #fca903 25%, #1ddb62 50%, #03e3fc 75%, #a30363 100%);
-    height: inherit;
 }
 img{height: 500px;}
