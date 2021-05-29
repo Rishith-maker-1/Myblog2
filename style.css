@@ -22,7 +22,7 @@ body {
     color: white;
 }
 img{height: 500px;}
-#myworks{
+section{
     height: 100%;
-    background: linear-gradient(#8abbe3 0%, #fca903 25%, #1ddb62 50%, #03e3fc 75%, #a30363 100%);
+    background: linear-gradient(#a2c9db 0%,#186487 100%);
 }
